@@ -1,6 +1,6 @@
 import gulp from "gulp";
 import {spawn} from "child_process";
-import hugoBin from "hugo-bin";
+import hugoBin from "hugo-bin-latest";
 import log from "fancy-log";
 import pluginError from "plugin-error";
 import flatten from "gulp-flatten";
